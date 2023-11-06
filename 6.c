@@ -1,6 +1,6 @@
 // C program on perimeter of the rectangle
 #include <stdio.h>
-
+#define P 2
 int perimeter(int l,int b);
 int main()
 {
@@ -14,5 +14,5 @@ int main()
 }
 int perimeter(int l,int b)
 {
-    return (2*(l+b));
+    return (P*(l+b));
 }
