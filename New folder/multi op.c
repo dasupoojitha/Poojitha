@@ -3,7 +3,6 @@ int main()
 {
     int a=2;
     int b=3;
-    printf("addtion of two numbers");
-   
-    return 0;
+    printf("the value of a+b is %d\n",a,b);
+return 0;
 }
