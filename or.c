@@ -1,3 +1,4 @@
+// c program on the logical operators
 # include <stdio.h>
 int main()
 {

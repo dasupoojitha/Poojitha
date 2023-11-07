@@ -1,3 +1,4 @@
+// c program to with arithmetic operators using int & float.
 #include <stdio.h>
 int main()
 {
