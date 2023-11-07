@@ -12,6 +12,6 @@ int main()
   printf("a*=b is %d\n",a*=b);
   printf("a/=b is %d\n",a/=b);                                       
   printf("a%=b is %d\n",a%=b);
-  return 0;
-
+  printf("~a = %d\n", a = ~a);
+return 0;
 }
