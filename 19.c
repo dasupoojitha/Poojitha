@@ -1,3 +1,4 @@
+//c program using ternary or conditional
 #include <stdio.h>
 int main()
 {

@@ -1,3 +1,4 @@
+// c program using assignment operators
 #include <stdio.h>
 int main()
 {
