@@ -1,4 +1,22 @@
-// C program to print Integer data types.
+/*C program to print Char data types.
+
+Character data type allows its variable to store only a single character. The size of the character is 1 byte. It is the most basic data type in C. It stores a single character and requires a single byte of memory in almost all compilers.
+It stores a single character and requires a single byte of memory in almost all compilers.
+
+Now character datatype can be divided into 2 types:
+
+signed char
+unsigned char
+
+Range: (-128 to 127) or (0 to 255)
+Size: 1 byte
+Format Specifier: %c
+
+Syntax of char:
+The char keyword is used to declare the variable of character type:
+
+char var_name;
+*/
 #include <stdio.h>
  
 int main()
