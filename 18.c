@@ -1,4 +1,4 @@
-/*C program to illustrate increment 
+/*C program using increment & decrement.
 C Operators are symbols that represent operations to be performed on one or more operands. C provides a wide range of operators, which can be classified into different categories based on their functionality. Operators are used for performing operations on variables and values.
 Operators that operate or work with a single operand are unary operators. For example:Increment Operator,Decrement.
 

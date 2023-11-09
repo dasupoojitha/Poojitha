@@ -1,4 +1,4 @@
-/*c program using assignment operators
+/*c program using assignment operators.
 There are different kinds of the operators, such as arithmetic, relational, bitwise, assignment, etc., in the C programming language. The assignment operator is used to assign the value, variable and function to another variable. Let's discuss the various types of the assignment operators such as =, +=, -=, /=, *= and %=.
 
 Simple Assignment Operator (=):

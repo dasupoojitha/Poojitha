@@ -1,4 +1,4 @@
-/*c program using ternary or conditional
+/*c program using ternary or conditional.
 The conditional operator is also known as a ternary operator. The conditional statements are the decision-making statements which depends upon the output of the expression. It is represented by two symbols, i.e., '?' and ':'.
 As conditional operator works on three operands, so it is also known as the ternary operator.
 The behavior of the conditional operator is similar to the 'if-else' statement as 'if-else' statement is also a decision-making statement.

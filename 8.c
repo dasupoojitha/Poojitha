@@ -14,7 +14,7 @@ We use int keyword to declare the integer variable:
 
 int var_name;
 
-The integer data type can also be used as
+The integer data type can also be used as:
 
 unsigned int: Unsigned int data type in C is used to store the data values from zero to positive numbers but it can’t store negative values like signed int.
 short int: It is lesser in size than the int by 2 bytes so can only store values from -32,768 to 32,767.

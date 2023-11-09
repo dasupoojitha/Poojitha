@@ -14,12 +14,10 @@ Format Specifier: %c
 
 Syntax of char:
 The char keyword is used to declare the variable of character type:
-
 char var_name;
 */
 #include <stdio.h>
- 
-int main()
+ int main()
 {
     char b = 'a';
     char c;

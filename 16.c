@@ -1,4 +1,4 @@
-/*c program using unary operator.
+/*c program using unary operators.
 Unary operators are the operators that perform operations on a single operand to produce a new value.
 
 Types of unary operators are mentioned below:

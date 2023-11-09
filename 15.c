@@ -33,5 +33,5 @@ int main()
     printf("a>>b is %d\n", a >> b);
     printf("a|b is %d\n", a | b);
     printf("a^b is %d\n", a ^ b);
-    return 0;
+return 0;
 }

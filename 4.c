@@ -1,17 +1,16 @@
-//finding the area  and radius of the circle with float values
-#include<stdio.h>
-#define PI 3.14
-float area(float r);
+/*write a program toswapping of two numbers
+*/
+#include <stdio.h>
 int main()
 {
-    float r;
-    printf("\n enter the radius:");
-    scanf("%f",&r);
-    printf("the area of circle in %f\n",area(r));
-    // this is the formula of radius
-}
-float area(float r)
-{
- return (PI*r*r);
-}
+    int a,b;
+    printf("enter two numbers:\n");
+    scanf("%d %d",&a,&b);
+    printf("before swapping of two numbers a is %d and b is %d\n",a,b);
+    a=a+b;
+    b=a-b;
+    a=a-b;
+    printf("after swapping of two number a is %d and b is %d\n",a,b);
+    return 0;
 
+}

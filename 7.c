@@ -11,8 +11,7 @@ format specifier: %d
 
 syntax of integer:
 
-We use int keyword to declare the integer variable:
-
+We use int keyword to declare the integer variable.
 int var_name;
 
 The integer data type can also be used as
