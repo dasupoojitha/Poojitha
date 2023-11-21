@@ -17,6 +17,6 @@ int main()
     sum+=a[i];
     printf("sum of array is %d\n",sum);
     average=sum/5;
-    printf("%f",average);
+    printf("%d",average);
     return 0;
 }
