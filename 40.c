@@ -33,7 +33,7 @@ int main()
         }
 }  
 	printf("\n enter the location in a matrix where you want to update value: ");
-	scanf("%d %d",&i,&j);   
+	scanf("%d %d",&i,&j);
 	printf("\nenter the value to be replaced: ");
 	scanf("%d",&num);
 	arr[i][j]=num;                    
