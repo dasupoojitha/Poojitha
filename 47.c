@@ -1,3 +1,4 @@
+// c program to print the 7th highest value in the list
 #include <stdio.h>
 int main()
 {
