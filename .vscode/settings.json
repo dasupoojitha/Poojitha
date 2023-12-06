@@ -2,6 +2,7 @@
     "files.associations": {
         "stdio.h": "c",
         "14.C": "cpp",
-        "27.C": "cpp"
+        "27.C": "cpp",
+        "60.C": "cpp"
     }
 }
