@@ -15,6 +15,7 @@ int main()
         if (j>i)
         {
             printf("lower value\n");
+
         }
         else if (j < i)
         {

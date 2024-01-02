@@ -2,14 +2,9 @@
 int main()
 {
 FILE*fptr;
-fptr=fopen("file ","w");
-if(fptr==NULL)
-{
-printf("the file not able to open");
-}
-else
-{
-printf("the is sucessfully writting");
-}
+int num=12;
+fptr=fopen("file.txt ","r");
+fprintf(fptr,"the number is %d\n ",num);
+fprintf(fptr,"the file is sucessfully writting");
 fclose(fptr);
 }
