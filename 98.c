@@ -4,7 +4,7 @@ void main()
 {
     FILE *ptr;
     char ch;
-    ptr = fopen("xyz.txt","r");
+    ptr = fopen("file.txt","r");
     if (ptr == NULL)
     {
         printf("file unable to open");

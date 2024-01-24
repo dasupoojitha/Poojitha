@@ -4,18 +4,17 @@ void main()
 {
     FILE *fptr;
     char str[100];
-    fptr=fopen("xyz.txt","w");
+    fptr=fopen("xyz.txt","r");
     if(fptr==NULL)
     {
         printf("file is unable to open");
     }
     else
     {
-        printf("enter the text: ");
-    }
-    gets(str);
-    fputs(str,fptr);
+    printf("Data in the file: ");
+    fgets(str,50,fptr);
+    puts(str);
     fclose(fptr);
-
+    }
     getch();
 }
