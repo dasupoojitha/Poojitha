@@ -48,4 +48,8 @@ int main()
     }
     printf("\nyour choosen :%c and system choosen:%c", me, system);
     return 0;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> cd78cd477aedb5879c69de2c779af5d2e2e48f48
